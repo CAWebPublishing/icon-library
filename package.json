@@ -38,10 +38,9 @@
     },
     "scripts": {
         "caweb": "caweb",
-        "build": "caweb build  --mode production",
-        "start": "webpack -w --config webpack.config.js --progress --mode=development",
         "prebuild": "npm run icons",
-        "buildold": "webpack --config webpack.config.js --progress --mode=development",
-        "icons": "node ./private/scripts/icon.js"
+        "build": "caweb build  --mode production",
+        "icons": "node ./private/scripts/icon.js",
+        "test": "echo \"Error: run tests from root\" && exit 0"
     }
 }
