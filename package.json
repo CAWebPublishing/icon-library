@@ -5,7 +5,10 @@
     "author": "CAWebPublishing",
     "license": "GPL2",
     "type": "module",
-    "private": false,
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/CAWebPublishing/icon-library.git"
+    },
     "engines": {
         "npm": ">=10.0.0",
         "node": ">=18.0.0"
