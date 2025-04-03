@@ -9,6 +9,9 @@
         "type": "git",
         "url": "git+https://github.com/CAWebPublishing/icon-library.git"
     },
+    "publishConfig": {
+      "access": "public"
+    },
     "engines": {
         "npm": ">=10.0.0",
         "node": ">=18.0.0"
