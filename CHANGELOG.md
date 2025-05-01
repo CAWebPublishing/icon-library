@@ -1,3 +1,7 @@
+v1.1.0
+- Simplified library
+- Removed all Divi references
+
 v1.0.1
 - Added scripts folder
 - Renamed src style.css file to index.css
