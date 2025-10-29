@@ -1,3 +1,6 @@
+v1.1.3
+- Updated npm packages
+
 v1.1.2
 - Rebuild files
 
