@@ -7,3 +7,11 @@
 *.swp
 Thumbs.db
 node_modules
+
+# ignore @caweb/template directories these are used for testing
+components
+content
+forms
+media
+patterns
+semantics
