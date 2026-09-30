@@ -19,6 +19,7 @@
     "scripts": {
         "webpack": "webpack",
         "icons": "node lib/icon.js",
+        "style": "node lib/fixStyle.js",
         "build": "npm run build:prod && npm run build:dev",
         "build:prod": "webpack build --config ./node_modules/@caweb/webpack/webpack.config.js ./webpack.config.js --merge --mode production",
         "build:dev": "webpack build --config ./node_modules/@caweb/webpack/webpack.config.js ./webpack.config.js --merge --mode development",

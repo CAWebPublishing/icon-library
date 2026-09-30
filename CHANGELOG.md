@@ -1,6 +1,8 @@
 v1.2.0
 - Removed 234 icons that weren't part of the State Template and were duplicated in Divi
 - Removed 18 icons that weren't part of either State or Divi icon libary
+- Added 14 new State Template icons
+- Added icomoon selection.json to src/fonts directory
 
 v1.1.7
 - Updated npm packages
