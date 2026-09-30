@@ -15,3 +15,6 @@ forms
 media
 patterns
 semantics
+
+# don't save any cagov icons
+lib/ca-gov-icon.svg
